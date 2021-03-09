@@ -1,6 +1,6 @@
 # hello-world
 
-Hi other noobs !
+Hi stranger!
 
 Welcome to my Hello world of Github. 
 Here you can see the real projects.
