@@ -3,7 +3,6 @@
 Hi other noobs !
 
 Welcome to my Hello world of Github. 
-Here you can see the real noob I am in computer science and 
-data science. 
+Here you can see the real projects.
 
-Enjoy! \m\,
+Enjoy! \m/,
